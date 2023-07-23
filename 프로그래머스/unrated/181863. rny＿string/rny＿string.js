@@ -1,0 +1,1 @@
+const solution = (rny_string) => [...rny_string].map(v => v.replace('m', 'rn')).join('')
